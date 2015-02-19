@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UserTableViewController.h
 //  List
 //
 //  Created by Roshan Lamichhane on 2/19/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController 
-
-
+@interface UserTableViewController : UITableViewController 
+@property (nonatomic,strong) NSMutableArray *users;
 @end
-
