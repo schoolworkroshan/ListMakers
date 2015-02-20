@@ -4,7 +4,7 @@
 //
 //  Created by Roshan Lamichhane on 2/19/15.
 //  Copyright (c) 2015 Roshan Lamichhane. All rights reserved.
-// Hello Hello
+// Hello there
 
 #import "ViewController.h"
 #import "AppDelegate.h"
